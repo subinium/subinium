@@ -48,11 +48,7 @@ Tech Lead @ [Hashed](https://hashed.com) · Seoul
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------: |
 | **[kaggle-badge](https://github.com/subinium/kaggle-badge)**                                       | Dynamic Kaggle badge generator for GitHub READMEs         |                    ![](https://img.shields.io/github/stars/subinium/kaggle-badge?style=flat&label=%E2%98%85&color=gray) |
 | **[awesome-deepfake-porn-detection](https://github.com/subinium/awesome-deepfake-porn-detection)** | Papers, repos, and datasets for deepfake & porn detection | ![](https://img.shields.io/github/stars/subinium/awesome-deepfake-porn-detection?style=flat&label=%E2%98%85&color=gray) |
-| **[web3-onboarding](https://github.com/subinium/web3-onboarding)**                                 | Web3 onboarding resources                                 |                 ![](https://img.shields.io/github/stars/subinium/web3-onboarding?style=flat&label=%E2%98%85&color=gray) |
 | **[Deep-Papers](https://github.com/subinium/Deep-Papers)**                                         | Deep learning paper reviews                               |                     ![](https://img.shields.io/github/stars/subinium/Deep-Papers?style=flat&label=%E2%98%85&color=gray) |
-| **[Problem-Solving](https://github.com/subinium/Problem-Solving)**                                 | Algorithm study from scratch                              |                 ![](https://img.shields.io/github/stars/subinium/Problem-Solving?style=flat&label=%E2%98%85&color=gray) |
-| **[Python-Data-Visualization](https://github.com/subinium/Python-Data-Visualization)**             | All about Python visualization                            |       ![](https://img.shields.io/github/stars/subinium/Python-Data-Visualization?style=flat&label=%E2%98%85&color=gray) |
-| **[subinium.github.io](https://github.com/subinium/subinium.github.io)**                           | Ex-personal blog                                          |              ![](https://img.shields.io/github/stars/subinium/subinium.github.io?style=flat&label=%E2%98%85&color=gray) |
 
 ---
 
