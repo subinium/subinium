@@ -2,7 +2,9 @@
 
 _He who has dreamed for long resembles his dream._
 
-Tech Lead @ [Hashed](https://hashed.com) · Seoul
+- Research Engineer @Asteromorph | 2026.06~
+- Former Tech Lead @[Hashed](https://hashed.com) | 2022.06 ~ 2026.05
+- Kaggle Code Grandmaster | 2021
 
 ---
 
